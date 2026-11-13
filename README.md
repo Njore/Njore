@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 
-### Software Developer | Data Scientist | Tech Enthusiast
+###  Data Scientist | Tech Enthusiast | Software Developer 
 
 - 📊 Passionate in Data Science, Machine Learning and Analytics
 - 🧹 Enjoy exploring datasets, cleaning data and extracting insights.
