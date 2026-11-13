@@ -60,4 +60,4 @@
 ## 📫 Connect With Me
 
 - 📧 Email: eve.n.njore@gmail.com
-- 💼 LinkedIn: [Njore]([https://linkedin.com/](https://www.linkedin.com/in/eve-njore-345a80250/))
+- 💼 LinkedIn: ([Eve Njore](https://www.linkedin.com/in/eve-njore-345a80250/))
